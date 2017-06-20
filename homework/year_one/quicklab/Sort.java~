@@ -1,0 +1,19 @@
+import java.util.Random;
+
+public class Sort {
+
+    public static void quicksort(int[] arr, int start, int end){
+	
+    }
+
+    public static void insertionSort(int[] arr, int start, int end){
+
+    }
+
+    public static void main(String[] args){
+	Random rn = new Random();
+	System.out.println(rn.next());
+
+    }
+}
+	
